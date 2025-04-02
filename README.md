@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome on my profile!
+Not much to see yet, but you can check my projects... stay tuned for more! 💻🔥
+
 <!--
 **CocoEC/CocoEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
